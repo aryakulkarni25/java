@@ -1,1 +1,1 @@
-# Java Programs for pracyice.
+# Java Programs for practice.
